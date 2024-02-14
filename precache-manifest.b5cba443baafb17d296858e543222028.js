@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8a484d7d8c5e6dad57facfaf9046c7e",
+    "revision": "9eaf0d499cbbbeb00bacae1964a17eab",
     "url": "/gst-calc/index.html"
   },
   {
-    "revision": "67bb0ec704b852dcf710",
-    "url": "/gst-calc/static/css/main.98e5ef1f.chunk.css"
+    "revision": "fc9e7b9f71355a18770c",
+    "url": "/gst-calc/static/css/main.14fb96a0.chunk.css"
   },
   {
     "revision": "bc853196e31e2d32a6c9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gst-calc/static/js/3.940f5f6f.chunk.js"
   },
   {
-    "revision": "67bb0ec704b852dcf710",
-    "url": "/gst-calc/static/js/main.e1e9000b.chunk.js"
+    "revision": "fc9e7b9f71355a18770c",
+    "url": "/gst-calc/static/js/main.91f45066.chunk.js"
   },
   {
     "revision": "6f50dab6f132baef66fb",
