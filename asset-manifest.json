@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/gst-calc/static/css/main.3bac3b4d.chunk.css",
-    "main.js": "/gst-calc/static/js/main.ee5dfde6.chunk.js",
-    "main.js.map": "/gst-calc/static/js/main.ee5dfde6.chunk.js.map",
+    "main.css": "/gst-calc/static/css/main.98e5ef1f.chunk.css",
+    "main.js": "/gst-calc/static/js/main.e1e9000b.chunk.js",
+    "main.js.map": "/gst-calc/static/js/main.e1e9000b.chunk.js.map",
     "runtime~main.js": "/gst-calc/static/js/runtime~main.d557576d.js",
     "runtime~main.js.map": "/gst-calc/static/js/runtime~main.d557576d.js.map",
     "static/js/2.a2b181a3.chunk.js": "/gst-calc/static/js/2.a2b181a3.chunk.js",
@@ -10,8 +10,8 @@
     "static/js/3.940f5f6f.chunk.js": "/gst-calc/static/js/3.940f5f6f.chunk.js",
     "static/js/3.940f5f6f.chunk.js.map": "/gst-calc/static/js/3.940f5f6f.chunk.js.map",
     "index.html": "/gst-calc/index.html",
-    "precache-manifest.1ad842612dd623eff3aef83a80ea58ea.js": "/gst-calc/precache-manifest.1ad842612dd623eff3aef83a80ea58ea.js",
+    "precache-manifest.858d004e42001a87904c6f76ec685aea.js": "/gst-calc/precache-manifest.858d004e42001a87904c6f76ec685aea.js",
     "service-worker.js": "/gst-calc/service-worker.js",
-    "static/css/main.3bac3b4d.chunk.css.map": "/gst-calc/static/css/main.3bac3b4d.chunk.css.map"
+    "static/css/main.98e5ef1f.chunk.css.map": "/gst-calc/static/css/main.98e5ef1f.chunk.css.map"
   }
 }
